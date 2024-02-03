@@ -1,0 +1,23 @@
+{
+    "nodeVersion": "system",
+    "viewportHeight": 1200,
+    "viewportWidth": 660,
+    "pageLoadTimeout": 30000,
+    "requestTimeout": 30000,
+    "defaultCommandTimeout": 2000,
+    "chromeWebSecurity": false,
+    "WebSecurity": false,
+    "experimentalStudio": true,
+    "baseUrl": "https://www.saucedemo.com/",
+    "projectId": "volt200",
+    "videosFolder": "cypress/videos",
+    "video": true,
+    "retries": 0,
+    "videoUploadOnPasses": true,
+    "videoCompression": 32,
+    "watchForFileChanges": false,
+    "trashAssetsBeforeRuns": true,
+    "env": {
+        "failSilently": false
+           }
+}
